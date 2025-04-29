@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud IDE**
+- 🔭 I’m currently working on **Eco Mart**
 
 - 🌱 I’m currently deepening **my expertise in React—mastering advanced Hooks, Context patterns, code-splitting, Suspense, and server-side rendering—and in Node.js, focusing on the event loop internals, streams, clustering, Express middleware, and building scalable RESTful APIs.**
 
-- 👯 I’m looking to collaborate on **Cloud IDE**
+- 👯 I’m looking to collaborate on **Eco Mart**
 
 - 📫 How to reach me **divyamverma90@gmail.com**
 
